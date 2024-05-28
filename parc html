@@ -1,0 +1,17 @@
+<h1> Mi nombre es Uma</h1>
+<img src-me.jpg" width="200" height="200">
+ 
+<p>Un gusto mi nombre es Uma</p>
+<p>Me gusta mucho los colores fosforecentes</p>
+<p>mi animal favorito son los pinguinos</p>
+<p>tengo 21 años</p>
+<h1>Lista de materias</h1>
+<ul>
+  <li>Introduccion a los sitemas contables</li>
+  <li>Calculo</li>
+  <li>Introduccion a la programacion</li>
+  <li>Electronica</li>
+  <li> Moral Cristiana</li>
+</ul>
+<a href="logins.html">Quiero registrarme</a>
+<button>Iniciar</button>
