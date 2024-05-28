@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+</head>
+ <body>
+  <h1>Inicio de sesion</h1>
+  <from merthod="post">
+    <div class= "Username">
+    <label>Usuario</label>
+    <div class="password">
+    <input type="text" required>
+    <input type="text" required>
+    <label>Contrasena</label>
+    </div>
+  </from>
+  <button>Acceder</button>
+<div class="Forggetpassword"><em>¿Olvide mi Contrasena?</em></div>
+<div class="registrarse"></div>
+  <a href="#">Quiero registrarme</a>
+<input type="submit" value ="Inicio">
+</body>
+</html>
